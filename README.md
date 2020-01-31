@@ -1,3 +1,5 @@
+# Code-switch-Embeddings-for-Sentiment-Analysis
+
 This repository contains:
 
 1. A folder called models two models: es_en model and cs_model
@@ -12,6 +14,4 @@ Some of the preprocessing methods here use inspiration from https://github.com/j
 7. Folder containing preprocessed pickle dictionaries containing datasets to train the models
 8. Word2vec file used to make the word embeddings (word2vec_cs.py). A tutorial was followed from https://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/ and some of the code was used from there.
     Some code was also used and inspired from from https://github.com/jatinmandav/Neural-Networks
-# Code-switch-Embeddings-for-Sentiment-Analysis
-# Code-switch-Embeddings-for-Sentiment-Analysis
-# Code-switch-Embeddings-for-Sentiment-Analysis
+
